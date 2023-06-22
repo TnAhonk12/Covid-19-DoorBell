@@ -26,7 +26,7 @@ Nontifkasi
 ![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/di%20izinkan%20masuk.jpg?raw=true)
 
 Rangkaian
-![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/Foto%20Rangkaian%202.jpg?raw=true)
+![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/Foto%20Rangkaian.jpg?raw=true)
 ![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/Foto%20Rangkaian.jpg?raw=true)
 
 
