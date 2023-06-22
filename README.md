@@ -25,7 +25,7 @@ Proyek COVID-19 Doorbell ini merupakan proyek open-source yang memungkinkan kont
 ![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/Nontifikasi.jpg?raw=true)
 ![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/di%20izinkan%20masuk.jpg?raw=true)
 
-$$ Rangkaian
+## Rangkaian
 ![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/Foto%20Rangkaian.jpg?raw=true)
 ![alt text](https://github.com/TnAhonk12/Covid-19-DoorBell/blob/main/Foto/Foto%20Rangkaian.jpg?raw=true)
 
